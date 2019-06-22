@@ -1,0 +1,2 @@
+﻿  OpenGlJanelas.cpp
+C:\Users\vhreis\source\repos\OpenGlJanelas\packages\nupengl.core.0.1.0.1\build\native\include\GL\glew.h(84,1): error C1189:  #error:  gl.h included before glew.h
