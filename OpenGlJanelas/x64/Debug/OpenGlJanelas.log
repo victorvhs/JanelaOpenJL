@@ -1,2 +1,4 @@
 ﻿  OpenGlJanelas.cpp
-C:\Users\vhreis\source\repos\OpenGlJanelas\packages\nupengl.core.0.1.0.1\build\native\include\GL\glew.h(84,1): error C1189:  #error:  gl.h included before glew.h
+C:\Users\vhreis\source\repos\OpenGlJanelas\OpenGlJanelas\OpenGlJanelas.cpp(67,14): warning C4244:  '=': conversão de 'double' para 'GLfloat', possível perda de dados
+C:\Users\vhreis\source\repos\OpenGlJanelas\OpenGlJanelas\OpenGlJanelas.cpp(69,15): warning C4244:  '=': conversão de 'double' para 'GLfloat', possível perda de dados
+  OpenGlJanelas.vcxproj -> C:\Users\vhreis\source\repos\OpenGlJanelas\x64\Debug\OpenGlJanelas.exe
